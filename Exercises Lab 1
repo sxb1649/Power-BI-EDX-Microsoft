@@ -1,0 +1,18 @@
+Answer the following question by reviewing the imported data in Power BI Desktop. (Hint: Use the Data view). How many rows were imported from the Date query?
+5844
+How many rows were imported from the Locations query?
+99618
+How many rows were imported from the Manufacturer query?
+14
+How many rows were imported from the Products query?
+2412
+How many rows were imported from the Sales table?
+9985368
+How many rows were imported from the International Sales query?
+797244
+How many rows were imported from the Sales query?
+10782612
+How many rows were imported from the Country Population query?
+75
+How many distinct values of the Year column were imported from the Country Population query?
+15

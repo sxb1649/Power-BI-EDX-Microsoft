@@ -1,0 +1,28 @@
+Which three cardinalities are available in Power BI table relationships?
+many to One
+One to One
+One to Many.
+
+Which two cross filter directions are available in Power BI table relationships?
+Single
+Both
+
+Consider the following DAX formula for a calculated column in the Sales table: UnitPrice = Sales[Revenue] / Sales[Units] Which three statements describe the DAX formula?
+The formula creates a calculated column named UnitPrice.
+The value of the calculated column is dependent on the Revenue column.
+The value of the calculated column is dependent on the Units column.
+
+Which three options allow you to hide a field from the Report view in Power BI Desktop?
+In Power BI Desktop Data view, right-click the column header on the respective table, and click Hide in Report View.
+In Power BI Desktop Relationships view, right-click the field on the respective table, and click Hide in Report View.
+In Power BI Desktop Report view, right-click the field on the Fields list, and click Hide.
+
+In Power BI Desktop Report view, which three options will create a measure in the Sales table?
+Select the Sales table in the Fields list, and then click New Measure in the Modelling ribbon.
+Create the measure, and then set the Home Table properties to Sales.
+On the Fields list, click the ellipsis next to the Sales table or right-click any field in the Sales table, and then click New Measure.
+
+What are the three reasons for which you might use calculated tables?
+To union tables
+To perform different types of merge join
+To create a table based on the result of a function or formula

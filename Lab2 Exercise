@@ -1,0 +1,38 @@
+Explanation for lab2 exercise 2
+
+Total Sales = SUM(Sales[Revenue])
+
+LY Sales = CALCULATE([Total Sales],SAMEPERIODLASTYEAR('Date'[Date]))
+
+Sales Var = [Total Sales] - [LY Sales]
+
+Sales Var % = DIVIDE([Sales Var],[LY Sales])
+
+Total sales figure is $5,127,755,449.65
+
+Sales Var % figure is 2.74%
+
+Review the relationship that you have just created on the CountryZip columns. 
+(Hint: Double-click on the newly created relationship). What is the cardinality of the relationship?
+Many to One
+
+What is the Cross filter direction of the relationship?
+Both
+
+What is the figure for the Total Sales measure? (to two decimal places)
+5127755449.65
+
+What is the figure for the Sales Var % measure? (to two decimal places)
+2.74
+
+What is the figure for the LY YTD Sales measure? (to two decimal places)
+272629284.10
+
+What is the figure for the YTD Sales Var % measure? (enter the absolute value, to two decimal places)
+49.76
+
+What is the figure for the Total VanArsdel Sales measure? (to two decimal places)
+2276898965.01
+
+What is the figure for the % Sales Market Share measure? (to two decimal places)
+44.40

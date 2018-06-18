@@ -1,0 +1,56 @@
+Quiz 3 Edx Microsoft Power Bi
+
+Which three fields are available when creating a Pie chart for visualization?
+Legend
+Details
+Values
+
+Drag and drop the fields to the corresponding settings to create the above chart.
+Shared Axis: YEAR
+Column Series: COUNTRY
+Column Values: REVENUE
+Line Values: UNITS
+
+Which level of filter behaves the same as a slicer in a report in Power BI Desktop
+Page level filter
+
+Drag and drop the fields to the corresponding settings to create the above chart.
+Location: COUNTRY
+Legend: CATEGORY
+Values: REVENUE
+
+Drag and drop the fields to the corresponding settings to create the above chart.
+Rows: SEGMENT
+Columns: CATEGORY
+Values: REVENUE
+
+When creating a waterfall chart, which two field options that you need to define?
+Category
+Y Axis
+
+Which visualization would you use to show progress toward a particular target?
+Gauge
+
+Which three shapes can you create using the Insert Shapes feature in Power BI Desktop?
+Triangle
+Rectangle
+Oval
+
+From which two options can you customize your report page layout?
+From the Report ribbon, Page size option
+From the Visualizations, Format option
+
+Which of the following option would you use to modify the interactions flow between visuals in a Power BI report?
+Edit Visual Interactions
+
+When you make a copy of a page in your report by using Duplicate Page, which visualizations from the page are duplicated?
+All visualizations
+
+Which of the following is not an option for Default Summarization?
+Standard deviation
+
+Which four options you can use to modify the Z order of a visualization?
+Send to Back
+Bring to Front
+Bring Forward
+Send Backward

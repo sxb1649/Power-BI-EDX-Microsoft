@@ -9,6 +9,9 @@ Click the ellipsis next to the dashboard name on the Dashboards list, and then c
 Click Share from the upper right of the dashboard you want to share.
 Right-click anywhere in the dashboard, and then click Share.
 
+You are viewing a Power BI dashboard in a browser window. What happens when you click the Focus mode of a tile?
+The tile you selected expands and takes the full space. correct
+
 You publish a report from Power BI Desktop to Power BI service. You then make changes to your local report in Power BI Desktop by adding 
 some visualizations. When do the changes synchronize to Power BI service?
 When you re-publish the Power BI Desktop report

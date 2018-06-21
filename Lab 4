@@ -1,0 +1,15 @@
+You want to pin existing visualizations from a report to a dashboard. How many visualization(s) can you pin to a dashboard?
+You can pin multiple visualizations to a dashboard but you need to do it one at a time. You can pin multiple visualizations to a dashboard but you need to do it one at a time. - correct
+
+Now try answering the following question by using the Q&A. What is the total sales for Germany in 2014?
+6,984,804.82
+
+Let's confirm that you received the dahsboard sharing invitation email. What is the sender's name?
+Microsoft Power BI
+
+As you can see, when you update a Power BI Desktop file and re-publish it, the report in Power BI service (that is based on that file) will get updated. What about the Dashboard? Do pinned visualizations (tiles) get updated when the report is updated?
+No
+
+Which two frequencies are available for scheduled refresh?
+Daily
+Weekly

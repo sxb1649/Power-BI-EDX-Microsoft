@@ -1,0 +1,32 @@
+By default, where does clicking a tile on a Power BI dashboard take you?
+To the report where the visual was pinned from
+
+When you pin a visual created by the natural language query, to which dashboard is it pinned?
+The dashboard you selected in the Pin to dashboard window
+
+You want to share a dashboard with your colleague. What are two possible ways to achieve this goal?
+Click the ellipsis next to the dashboard name on the Dashboards list, and then click Share.
+Click Share from the upper right of the dashboard you want to share.
+Right-click anywhere in the dashboard, and then click Share.
+
+You publish a report from Power BI Desktop to Power BI service. You then make changes to your local report in Power BI Desktop by adding 
+some visualizations. When do the changes synchronize to Power BI service?
+When you re-publish the Power BI Desktop report
+
+What is the purpose of Power BI Personal Gateway?
+To provide quick and secure data transfer between Power BI service and on-premises data sources that support refresh. 
+To provide quick and secure data transfer between Power BI service and on-premises data sources that support refresh.
+
+You are viewing a Power BI dashboard using the Power BI Windows mobile app. When you click a tile, where does it take you?
+To a larger view of the tile
+
+You are viewing a Power BI dashboard in a browser window. What happens when you click the Infocus mode of a tile?
+The tile you selected expands and takes the full space.
+
+Which three properties of a tile can you edit in the Power BI dashboard from the Tile details window?
+Title
+Subtitle
+Destination link
+
+What do you need to append to the URL of a Power BI dashboard in order to open it with the navigation pane collapsed by default?
+?collapseNavigation=true

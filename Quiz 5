@@ -1,0 +1,8 @@
+What do you need to do to prepare an Excel workbook before uploading it to Power BI?
+Format the data as an Excel table. Format the data as an Excel table.
+
+What happens when you upload an Excel workbook that has a Power View report to Power BI?
+The Excel Power View report will be converted to a Power BI report.
+
+What happens when you connect to an Excel workbook that is hosted at OneDrive for Business from Power BI?
+The Excel Report will be created in Power BI.

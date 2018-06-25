@@ -1,0 +1,11 @@
+
+Which three data sources allow you to use direct connection from Power BI?
+Azure SQL Database
+Azure SQL Data Warehouse
+SQL Server Analysis Services
+
+When you connect to a model in SQL Server Analysis Service, what is shown in the Navigator window?
+Summary showing the available dimensions and measures Summary showing the available dimensions and measures
+
+Where would you install the Analysis Service Connector?
+On the machine running the SQL Server Analysis Service

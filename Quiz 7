@@ -1,0 +1,25 @@
+Which three options can you add as a group member?
+Email addresses
+Security groups
+Distribution Lists
+
+
+Which two options you can give access to a content pack?
+Power BI Group
+Entire Organizations
+
+Which two of the following happen when you personalize a content pack?
+A copy of a content pack where you can make changes is created.
+
+The published version of the content pack is disconnected from the personalized content pack.
+When can you update a published content pack?
+Anytime after you made changes to the published content pack
+
+You create a Power BI report using Power BI desktop and save the report as .pbix file. 
+You upload the file to OneDrive for Business. Using Power BI service, you connect to the file hosted on OneDrive for Business. 
+What happens when you update the .pbix file on OneDrive for Business?
+The corresponding report in Power BI service also gets updated automatically.
+
+What are the two privacy levels you can assigned to a group?
+Public
+Private

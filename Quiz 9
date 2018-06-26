@@ -1,0 +1,13 @@
+Which programming language you would use to create custom visuals?
+TypeScript
+
+What is the extension of a Power BI custom visual file, downloaded from the Power BI visuals gallery?
+.pbiviz
+
+You can use Power BI REST APIs to programmatically access certain Power BI resources. One of the operations you can do is Get Datasets which returns a JSON list of all dataset objects that includes a name and id. What is the expected status code when this request is successful?
+200
+
+When registering your app for Power BI, which three APIs and level of access you can select for your app?
+Read All Datasets
+Read and Write All Datasets
+Read All Dashboards
